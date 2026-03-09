@@ -10,6 +10,7 @@ public:
         }
         s=r;
     }   
+    
      return s[0]==s[1]; 
     }
 };
